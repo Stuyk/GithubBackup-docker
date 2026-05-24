@@ -48,6 +48,7 @@ A comprehensive web-based solution for backing up GitHub repositories with sched
 - **User Settings**: Change username and password functionality
 - **Docker Ready**: Fully containerized with health checks and proper user permissions
 
+
 ## Quick Start
 
 ### Using Docker Compose (Recommended)
